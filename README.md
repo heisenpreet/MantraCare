@@ -6,7 +6,7 @@ Screenshots of my react-native projects i made during my employment at MantraCar
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![My Image](weightTracker2.jpg)|![My Image](DietPlanner1.jpg)|![My Image](DietPlanner2.jpg)
+|![My Image](weightTracker2.jpg)|![My Image](DietPlanner2.jpg)|![My Image](DietPlanner2.jpg)
 
 
 | | | |
