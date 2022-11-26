@@ -8,11 +8,19 @@ Screenshots of my react-native projects i made during my employment at MantraCar
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![My Image](weightTracker2.jpg)|![My Image](DietPlanner1.jpg)|![My Image](DietPlanner2.jpg)
 
-![My Image](DietPlanner3.jpg)|![My Image](DietPlanner4.jpg)|![My Image](DietPlanner5.jpg)| ![My Image](DietPlanner6.jpg) |![My Image](DietPlanner7.jpg)|![My Image](loginPage1.jpg)|![My Image](loginPage2.jpg)|![My Image](loginPage3.jpg)
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:
+![My Image](DietPlanner3.jpg)|![My Image](DietPlanner4.jpg)|![My Image](DietPlanner5.jpg)
 
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:
+| ![My Image](DietPlanner6.jpg) |![My Image](DietPlanner7.jpg)|![My Image](loginPage1.jpg)
 
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:
+|![My Image](loginPage2.jpg)|![My Image](loginPage3.jpg)
 
 
 
