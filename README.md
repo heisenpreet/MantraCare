@@ -10,7 +10,7 @@ Screenshots of my react-native projects i made during my employment at MantraCar
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![My Image](BloodPressure1.jpg)|![My Image](BloodPressure2.jpg)|![My Image](loginPage3.jpg)
+| ![My Image](BloodPressure1.jpg)|![My Image](BloodPressure2.jpg)|![My Image](Diabetes1.jpg)
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
