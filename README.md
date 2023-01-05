@@ -2,6 +2,18 @@
 Screenshots of my react-native projects i made during my employment at MantraCare
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
+| ![My Image](Home1.jpg)|![My Image](Home2.jpg)|![My Image](Home3.jpg)
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![My Image](Sleep1.jpg)|![My Image](Sleep2.jpg)|![My Image](Sleep3.jpg)
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![My Image](BloodPressure1.jpg)|![My Image](BloodPressure2.jpg)|![My Image](loginPage3.jpg)
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![My Image](waterTracker1.jpg)|![My Image](waterTracker2.jpg)|![My Image](weightTracker1.jpg)
 
 | | | |
